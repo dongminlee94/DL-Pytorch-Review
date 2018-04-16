@@ -16,4 +16,8 @@
 
 5. Optim & Criterion
 
+6. nn.Sequential Save and Load
+
+7. Visdom
+
 (to be continue...)
