@@ -1,4 +1,4 @@
-# Deep Learning Pytorch Tutorials
+# Deep Learning Pytorch Tutorial
 
 * 이 Repository는 Pytorch에 대해 정리하고자 만든 것입니다.
 
